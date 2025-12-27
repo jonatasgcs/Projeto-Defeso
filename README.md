@@ -4,6 +4,8 @@
 
 Este projeto é uma plataforma interativa desenvolvida para **educar, informar e conscientizar** sobre o **Período de Defeso**. Focado em **educação ambiental**, **regras legais**, **direitos do pescador** e **promoção da cidadania informada**, com ênfase em usabilidade e análise de dados.
 
+<img src="img/principal.png">
+
 ## ✨ Funcionalidades Principais
 
 * **👤 Autenticação Completa:** Sistema de **Login e Cadastro** para acesso personalizado.
@@ -63,4 +65,5 @@ A estrutura do banco de dados foi completamente redesenhada para suportar a aute
 ---
 
 Desenvolvido por: **Jonatas Gabriel** (Desenvolvedor)  
+
 Projeto Acadêmico | Universidade CEUMA | Ano: 2025
