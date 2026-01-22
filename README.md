@@ -1,4 +1,4 @@
-# 🎣 projeto_defeso | ECOSIS - Sistema de Informação e Conscientização
+# 🎣 projeto_defeso | Sistema de Informação e Conscientização
 
 # 🌊 Plataforma Educativa e Interativa sobre o Período de Defeso
 
@@ -67,3 +67,4 @@ A estrutura do banco de dados foi completamente redesenhada para suportar a aute
 Desenvolvido por: **Jonatas Gabriel** (Desenvolvedor)  
 
 Projeto Acadêmico | Universidade CEUMA | Ano: 2025
+
